@@ -25,6 +25,7 @@
   "mixins": [
     "dimteleport.mixins.json"
   ],
+  "accessWidener" : "dimteleport.accesswidener",
 
   "depends": {
     "fabricloader": ">=0.7.4",

@@ -4,6 +4,7 @@
   "package": "com.beetmacol.dimensionalteleport.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "TeleportCommandMixin"
   ],
   "injectors": {
     "defaultRequire": 1

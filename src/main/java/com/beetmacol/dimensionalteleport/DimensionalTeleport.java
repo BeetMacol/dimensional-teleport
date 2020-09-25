@@ -6,7 +6,7 @@ import org.apache.logging.log4j.Logger;
 
 public class DimensionalTeleport implements ModInitializer {
 
-	Logger logger = LogManager.getLogger(DimensionalTeleport.class);
+	public static Logger logger = LogManager.getLogger(DimensionalTeleport.class);
 
 	@Override
 	public void onInitialize() {
